@@ -1,5 +1,6 @@
 ### Hi there 👋
 Full Stack Developer here... (Omg I Rhymed Lolz) 
+Developing my skills one project at a time. 
 
 <!--
 **KalilahClarke/KalilahClarke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
