@@ -1,9 +1,6 @@
 ### Hi there 👋
-Full Stack Developer here... (Omg I Rhymed Lolz) 
-Developing my skills One project at a time.
-
-Technology is the Future. 
-It effects the ways we Communicate, Advocate and Educate. Covid-19 taught us that there is a clear need for society to accelerate technologies development and intergate it into our daily lives. As a Pursuit Fellow my Goal is to strengthen my skills as a Full-Stack Developer, problem solving and assisting in filling the gaps in our society to better support Parents, Students, Teachers, Advocators etc. in their daily lives. Allowing life to be more Effective and Efficent.
+Full Stack Developer here... (Omg I Rhymed 😜 ) Developing my skills one project at a time.
+Technology is the Future! It effects the ways we communicate, advocate, and educate. Covid-19 highlighted the clear need for society to accelerate technological developments and integrate tech into our daily lives. As a Pursuit Fellow, my goal is to strengthen my problem solving skills and use my knowledge as a Full-Stack Developer to help fill in the gaps in our society too better support Parents, Students, Teachers, Advocators etc. The motto is allowing life to be more Effective and Efficient.
 
 <!--
 **KalilahClarke/KalilahClarke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
