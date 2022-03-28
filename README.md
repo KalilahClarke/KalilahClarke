@@ -5,11 +5,11 @@ Technology is the Future! It effects the ways we communicate, advocate, and educ
 
 
 ### Coding Languages:
-| Language | Status |
-| ----------- | ----------- |
-| Vanilla Javascript | ✅ |
-| Node| ✅ |
-| React| ✅ |
+| Language | Status | Language | Status
+| ----------- | ----------- |----------- |----------- |
+| Vanilla Javascript | ✅ |Language | ✅
+| Node| ✅ |Language | ✅
+| React| ✅ |Language | ✅
 
 ### Learn More about Me:
 
