@@ -7,9 +7,9 @@ Technology is the Future! It effects the ways we communicate, advocate, and educ
 ### Coding Languages:
 | Language | Status |   Language  | Status
 | ----------- | ----------- |----------- |----------- |
-| Javascript | ✅ |CSS | ✅
-| Node| ✅ |Express| ✅
-| React| ✅ |MySQL | ✅
+| Javascript | ✅ |CSS | ✅  
+| Node| ✅ |Express| ❌
+| React| ❌ |MySQL | ❌
 
 ### Learn More about Me:
 
