@@ -8,8 +8,8 @@ Technology is the Future! It effects the ways we communicate, advocate, and educ
 | Language | Status |   Language  | Status |Language | Status
 | ----------- | ----------- |----------- |----------- |----------- |----------- |
 | Javascript | ✅ |CSS | ✅ | Jest | ❌
-| Node| ✅ |Express| ❌ | Ruby | ❌
-| React| ✅ |MySQL | ❌ |C++ |In-Progress
+| Node| ✅ |Express| ✅ | Ruby | ❌
+| React| ✅ |MySQL | ✅ |C++ |In-Progress
 
 ### Learn More about Me:
 
