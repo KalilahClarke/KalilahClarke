@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kalilah Clarke</h1>
-<h3 align="center">Avid Language-Learner / Software Developer</h3>
+<h1 align="center">Kalilah Clarke</h1>
+<h3 align="center">Avid Language-Learner / Software Engineer</h3>
 
 ## Hi there 👋
 Full Stack Developer here... (Omg I Rhymed 😜 )
