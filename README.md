@@ -9,8 +9,8 @@ Technology is the Future! It effects the ways we communicate, advocate, and educ
 | ----------- | ----------- |----------- |----------- |----------- |----------- |
 | Javascript | ✅ |CSS | ✅ | Jest | ❌
 | Node| ✅ |Express| ✅ | Ruby | ❌
-| React| ✅ |MySQL | ✅ |C++ |In-Progress
-|TypeScript| ✅ | Python| ❌ |AWS| ❌|
+| React| ✅ |MySQL | ✅ |Python |❌
+|TypeScript| ✅ | C++| In-Progress |AWS| ❌
 
 ### Learn More about Me:
 
