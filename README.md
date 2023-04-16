@@ -7,7 +7,7 @@ Developing my skills one project at a time.
 Technology is the Future! It effects the ways we communicate, advocate, and educate. Covid-19 highlighted the clear need for society to accelerate technological developments and integrate tech into our daily lives. As a Pursuit Fellow, my goal is to strengthen my problem solving skills and use my knowledge as a Full-Stack Developer to help fill in the gaps in our society to better support Parents, Students, Teachers, Advocators etc. The motto is allowing life to be more Effective and Efficient.
 
 
-<h2 align='left'>Coding Languages:</h2>
+<h3 align='left'>Coding Languages:</h3>
 
 
  
@@ -19,8 +19,8 @@ Technology is the Future! It effects the ways we communicate, advocate, and educ
 |TypeScript| ✅ | C++| In-Progress |AWS| ❌
  
 
-
-### Learn More about Me:
+<h3 align='left'>Learn More About Me:</h3>
+<!-- ### Learn More about Me: -->
 
 <!--
 **KalilahClarke/KalilahClarke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
