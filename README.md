@@ -9,12 +9,14 @@ Technology is the Future! It effects the ways we communicate, advocate, and educ
 
 <h2 align='center'>Coding Languages:</h2>
 
+<h2 align='center'>
 | Language | Status |   Language  | Status |Language | Status
 | ----------- | ----------- |----------- |----------- |----------- |----------- |
 | Javascript | ✅ |CSS | ✅ | Jest | ❌
 | Node| ✅ |Express| ✅ | Ruby | ❌
 | React| ✅ |MySQL | ✅ |Python |❌
 |TypeScript| ✅ | C++| In-Progress |AWS| ❌
+ </h2>
 
 ### Learn More about Me:
 
