@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 | 👀 Description | Information/Links|
 | ----------- | ----------- |
-|  📫 How to reach me| [![Mail Badge](https://img.shields.io/badge/-Kalilah-Clarke-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kalilahclarke@pursuit.org) [![Linkedin Badge](https://img.shields.io/badge/-KalilahClarke-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalilah-clarke/)
+|  📫 How to reach me| [![Mail Badge](https://img.shields.io/badge/-KalilahClarke-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kalilahclarke@pursuit.org) [![Linkedin Badge](https://img.shields.io/badge/-KalilahClarke-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalilah-clarke/)
 | 📄 Know about my experiences |[Resume](https://docs.google.com/document/d/1cvnXeZhPLU6i7zHoqPgcdrlVCXCqVsQl/edit?usp=sharing&ouid=118040931209812972517&rtpof=true&sd=true)
 |  🔭 I’m currently working on|[GoldenSolution](https://goldensolutionscapstone.netlify.app/) 
 |  🌱 I’m currently learning  | **TypeScript** 
@@ -58,7 +58,6 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kalilah-clarke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kalilah-clarke" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@kalilahclarke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kalilahclarke" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kclarke51" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kclarke51" height="30" width="40" /></a>
 </p>
