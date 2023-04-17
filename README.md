@@ -1,3 +1,5 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=kalilahclarke&label=Profile%20views&color=0e75b6&style=flat" alt="kalilahclarke" /> </p>
+
 <h1 align="center">Kalilah Clarke</h1>
 <h3 align="center">Avid Language-Learner / Software Engineer</h3>
 
@@ -19,7 +21,12 @@ Technology is the Future! It effects the ways we communicate, advocate, and educ
 |TypeScript| ✅ | C++| In-Progress |AWS| ❌
  
 
+<details>
+<summary> 
 <h3 align='left'>Learn More About Me:</h3>
+</summary>
+
+
 <!-- ### Learn More about Me: -->
 
 <!--
@@ -39,11 +46,9 @@ Here are some ideas to get you started:
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalilahclarke&label=Profile%20views&color=0e75b6&style=flat" alt="kalilahclarke" /> </p>
-
 | 👀 Description | Information/Links|
 | ----------- | ----------- |
-|  📫 How to reach me| **kalilahclarke@pursuit.org** 
+|  📫 How to reach me| [![Mail Badge](https://img.shields.io/badge/-Kalilah-Clarke-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kalilahclarke@pursuit.org) [![Linkedin Badge](https://img.shields.io/badge/-KalilahClarke-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalilah-clarke/)
 | 📄 Know about my experiences |[Resume](https://docs.google.com/document/d/1cvnXeZhPLU6i7zHoqPgcdrlVCXCqVsQl/edit?usp=sharing&ouid=118040931209812972517&rtpof=true&sd=true)
 |  🔭 I’m currently working on|[GoldenSolution](https://goldensolutionscapstone.netlify.app/) 
 |  🌱 I’m currently learning  | **TypeScript** 
