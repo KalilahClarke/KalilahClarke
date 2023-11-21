@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 | 👀 Description | Information/Links|
 | ----------- | ----------- |
 |  📫 How to reach me| [![Mail Badge](https://img.shields.io/badge/-KalilahClarke-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kalilahclarke@pursuit.org) [![Linkedin Badge](https://img.shields.io/badge/-KalilahClarke-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalilah-clarke/)
-| 📄 Know about my experiences |[Resume](https://docs.google.com/document/d/1cvnXeZhPLU6i7zHoqPgcdrlVCXCqVsQl/edit?usp=sharing&ouid=118040931209812972517&rtpof=true&sd=true)
+| 📄 Know about my experiences |[Resume]([https://docs.google.com/document/d/1cvnXeZhPLU6i7zHoqPgcdrlVCXCqVsQl/edit?usp=sharing&ouid=118040931209812972517&rtpof=true&sd=true](https://docs.google.com/document/d/1wld0pXmfpM9C_Z8DB4tOokE9Qv2S82b97WrcSxqwzIU/edit))
 |  🔭 I’m currently working on|[GoldenSolutions](https://goldensolutionscapstone.netlify.app/) 
 |  🌱 I’m currently learning  | **TypeScript** 
 |  💬 Ask me about | **React and Javascript** 
